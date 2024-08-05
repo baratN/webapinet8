@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapinet8", "webapinet8\webapinet8.csproj", "{E536047D-2D03-4BA5-A1FA-11BAB2DF20D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webapinet6", "webapinet8\webapinet6.csproj", "{E536047D-2D03-4BA5-A1FA-11BAB2DF20D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
