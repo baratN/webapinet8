@@ -1,4 +1,6 @@
-﻿using Microsoft.Extensions.Options;
+﻿using Contracts;
+using LoggerService;
+using Microsoft.Extensions.Options;
 
 namespace webapinet6.Extensions
 {
@@ -16,5 +18,8 @@ namespace webapinet6.Extensions
                 services.Configure<IISOptions>(options =>
      {
      });
+
+        public static void ConfigureLoggerService(this IServiceCollection services) =>
+            services.AddSingleton<ILoggerManager,LoggerManager>();
     }
 }

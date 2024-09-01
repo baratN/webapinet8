@@ -1,0 +1,8 @@
+﻿F:\Learning Curve\webapi\webapinet6\webapinet6\Extensions\ServiceExtensions.cs
+F:\Learning Curve\webapi\webapinet6\webapinet6\Program.cs
+F:\Learning Curve\webapi\webapinet6\webapinet6\obj\Debug\net6.0\webapinet6.GlobalUsings.g.cs
+F:\Learning Curve\webapi\webapinet6\webapinet6\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+F:\Learning Curve\webapi\webapinet6\webapinet6\obj\Debug\net6.0\webapinet6.AssemblyInfo.cs
+F:\Learning Curve\webapi\webapinet6\webapinet6\appsettings.Development.json
+F:\Learning Curve\webapi\webapinet6\webapinet6\appsettings.json
+F:\Learning Curve\webapi\webapinet6\webapinet6\Properties\launchSettings.json
