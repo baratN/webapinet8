@@ -1,6 +1,6 @@
 using webapinet6.Extensions;
 using NLog;
-using webapinet6.Controllers;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
